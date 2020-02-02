@@ -6,7 +6,8 @@ Currently, AWS CodeDeploy / AWS CodeBuild and AWS CodePipeline do not support Gi
 * AWS CLI with S3 and Lambda creation permissions
 
 ## Architecture
+![Arch](images/GitLab-to-S3.png)
 
 ## How to use
 
-### Im progress
+### In progress
